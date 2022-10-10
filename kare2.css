@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+
+
+
+
+body {
+    outline: 2px solid rgb(192, 92, 92);
+    background-size: 100%, 50%;
+    background-position:center,bottom left;
+    background-repeat: no-repeat;
+    background-image:url("https://img.freepik.com/premium-photo/pastel-colour-feather-abstract-background_66899-1263.jpg?size=626&ext=jpg&ga=GA1.2.1264687361.1664869847"), url("https://img.freepik.com/premium-photo/pastel-colour-feather-abstract-background_66899-1263.jpg?size=626&ext=jpg&ga=GA1.2.1264687361.1664869847");
+    background-color: blanchedalmond;
+    border-radius: 20px;
+
+}
+
+
+.container {
+    outline: 2px solid rgb(8, 90, 83);
+    width: 1200px;
+    height: 200px;
+    
+    margin: auto;
+    border-radius: 15px;
+    background: rgb(189, 186, 186,.4);
+    background-size: cover;
+    box-shadow:0 5px 15px rgb(168, 48, 48)s;
+
+
+
+}
+
+
+
+p {
+    margin-left:27%;
+    color: rgb(184, 52, 52);
+}
+
+
+
+
+.card {
+
+    height: 195px;
+    width:300px ;
+    background-color: blueviolet;
+    
+    margin-top: 2px;
+    float: left;
+    border-radius: 15px;
+}
+
+.word {
+    width: 850px;
+    height: 195px;
+    background-color: aliceblue;
+
+}
